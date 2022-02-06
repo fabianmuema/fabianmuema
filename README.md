@@ -2,10 +2,9 @@
 
 Hi, I'm Fabian Muema, a passionate programmer from Kenya.
 
-- 🔭 I’m currently working on my project Mikrotik User Management and Payment Systems
+- 🔭 I’m currently working on BPMN Processes and Laravel projects
 - 🌱 I’m currently learning Java and Redis
 - 👯 I’m looking to collaborate on any project you might have in mind.
-- 💬 Ask me about anything [here](https://github.com/fabianmuema/fabianmuema/issues)
 
 **Languages and Tools:**  
 
