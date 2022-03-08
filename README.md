@@ -1,10 +1,19 @@
 # Hi, I'm Fabian Muema <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hi, I'm Fabian Muema, a passionate programmer from Kenya.
+# replace contents according to you.
+<table>
+<tr>
+  <td valign="center">
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+    🌱 I am currently learning **Java** and also interested in **Web Development**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**.
+<td >
+   <a href="https://app.daily.dev/fabianmuema"><img src="https://api.daily.dev/devcards/47309807ed6e4df6813ccff15bef01a4.png?r=qiu" width="400" alt="Fabian Muema's Dev Card"/></a>
+  </td>
 
-- 🔭 I’m currently working on BPMN Processes and Laravel projects
-- 🌱 I’m currently learning Java and Redis
-- 👯 I’m looking to collaborate on any project you might have in mind.
+</tr>
+</table>
 
 **Languages and Tools:**  
 
