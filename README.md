@@ -1,4 +1,4 @@
-### Hi there, I'm [Fabian Muema!](https://fabianmuema.github.io) 👋
+# Hi, I'm Fabian Muema <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Hi, I'm Fabian Muema, a passionate programmer from Kenya.
 
