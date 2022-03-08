@@ -1,6 +1,5 @@
 # Hi, I'm Fabian Muema <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-# replace contents according to you.
 <table>
 <tr>
   <td valign="center">
