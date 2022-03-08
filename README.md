@@ -3,10 +3,13 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning **Java** and also interested in **Web Development**.
+  
+    🌱 I am currently learning **Typescript** and also interested in **Web Development**.
+    
     🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to create different types of **contents**.
+    
+    ✨ I love to create different types of **products**.
+    
 <td >
    <a href="https://app.daily.dev/fabianmuema"><img src="https://api.daily.dev/devcards/47309807ed6e4df6813ccff15bef01a4.png?r=qiu" width="400" alt="Fabian Muema's Dev Card"/></a>
   </td>
@@ -37,11 +40,7 @@
 
 ### Languages✍🏼
 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/35/000000/css3.png"/>
-<img src="https://img.icons8.com/fluency/35/000000/laravel.png"/>
-<img src="https://img.icons8.com/glyph-neue/35/000000/php.png"/>
-<img src="https://img.icons8.com/doodle/35/000000/api.png"/>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/35/000000/css3.png"/><img src="https://img.icons8.com/fluency/35/000000/laravel.png"/><img src="https://img.icons8.com/glyph-neue/35/000000/php.png"/><img src="https://img.icons8.com/doodle/35/000000/api.png"/>
 
 ### DevOps & Cloud Tools⚒️
 
