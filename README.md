@@ -25,11 +25,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 hr 27 mins    ████████████████████████▒   97.31 %
-YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+PHP              53 mins         █████████████████▒░░░░░░░   68.73 %
+Blade Template   22 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
+YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+ActionScript     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
