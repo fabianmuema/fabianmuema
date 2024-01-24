@@ -6,8 +6,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fabianmuema)
 
-I am a Software Engineer. I love programming, writing, speaking and traveling.
-
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
@@ -15,9 +13,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuff:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Kotlin on Google;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working Centipid.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: muemafabian@gmail.com;
 </br>
 
@@ -38,7 +34,7 @@ JavaScript       24 mins         ▒░░░░░░░░░░░░░░�
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianmuema&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=fabianmuema&show_icons=true&include_all_commits=true" height="150" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmuema"/>
 </p>
 
