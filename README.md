@@ -21,11 +21,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              16 hrs 59 mins  ████████████████████▒░░░░   81.63 %
-SQL              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Bash             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-.env file        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-JavaScript       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+PHP              18 hrs 5 mins   ████████████████████▓░░░░   82.87 %
+SQL              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Bash             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+.env file        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JSON             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
