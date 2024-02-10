@@ -17,19 +17,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: muemafabian@gmail.com;
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-PHP              10 hrs 3 mins   ████████████████▓░░░░░░░░   67.31 %
-Blade Template   3 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-CSS              32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-.env file        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Bash             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-```
-
-<!--END_SECTION:waka-->
-
 
 📈 **My GitHub Stats:**
 
